@@ -26,7 +26,7 @@ File|lines|"Reading"|"Notation"
 [yk_om_cm.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToMany.20200915092647/master/res/o/yk_om_cm.tsv
 [yk_om_cf.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToMany.20200915092647/master/res/o/yk_om_cf.tsv
 
-## One-to-many "notation" and "reading" (extracted only when there are two or more "notations")
+## One-to-many "notation" and "reading"(Extract only when there are two or more "readings" for the same "notation")
 
 File|lines|"Reading"|"Notation"
 ----|-----|---------|----------

@@ -26,7 +26,7 @@
 [yk_om_cm.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToMany.20200915092647/master/res/o/yk_om_cm.tsv
 [yk_om_cf.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToMany.20200915092647/master/res/o/yk_om_cf.tsv
 
-## 「表記」と「読み」が1対多（「表記」が2つ以上ある場合のみ抽出対象）
+## 「表記」と「読み」が1対多（同じ「表記」に対して「読み」が2つ以上ある場合のみ抽出対象）
 
 ファイル|行数|「読み」|「表記」
 --------|----|--------|--------
