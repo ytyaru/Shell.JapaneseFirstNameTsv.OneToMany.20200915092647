@@ -1,0 +1,46 @@
+# 実行時間
+
+```
+$ time yk_union_redirect.sh
+Start making m ...
+27m8.201s
+Start making f ...
+17m1.422s
+Start making c ...
+0m21.431s
+Start making mc ...
+0m19.659s
+Start making fc ...
+0m23.228s
+Start making cm ...
+0m56.390s
+Start making cf ...
+1m6.598s
+
+real	47m16.984s
+user	29m32.413s
+sys	28m16.524s
+```
+
+```
+$ time ky_union_redirect.sh
+Start making m ...
+114m11.117s
+Start making f ...
+64m51.162s
+Start making c ...
+0m11.093s
+Start making mc ...
+0m10.023s
+Start making fc ...
+0m12.844s
+Start making cm ...
+1m21.560s
+Start making cf ...
+2m7.975s
+
+real	183m5.858s
+user	146m48.514s
+sys	102m15.359s
+```
+
